@@ -27,3 +27,7 @@ build/
 
 # Logs
 *.log
+
+# Kaggle credentials
+/.kaggle/
+kaggle.json
